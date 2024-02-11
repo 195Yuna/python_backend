@@ -25,8 +25,21 @@ This management system is designed to streamline operations at Selwyn Panel Beat
 - Display Unpaid Bills: View a list of unpaid bills.
 - Pay Bill: Mark bills as paid after receiving payment.
 
-## Installation
+## Run the main program:
 
-1. Clone the repository:
-   ```bash
-   git clone 
+python main.py
+
+## Usage
+Follow the on-screen menu to perform various actions, such as listing customers, adding new customers, assigning jobs, and managing bills.
+
+## Functions
+
+list_customers(): Display a list of all customers and their details.
+list_services(): Display a list of available services.
+list_parts(): Display a list of available parts.
+add_customer(): Add a new customer to the system.
+add_job(): Assign a job to a customer, including selected services and parts.
+bills_to_pay(): Display a list of unpaid bills.
+pay_bill(): Mark a bill as paid after receiving payment.
+
+
