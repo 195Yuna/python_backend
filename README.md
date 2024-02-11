@@ -8,8 +8,7 @@ Welcome to the Selwyn Panel Beaters Management System! This Python program helps
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -34,12 +33,12 @@ Follow the on-screen menu to perform various actions, such as listing customers,
 
 ## Functions
 
-list_customers(): Display a list of all customers and their details.
-list_services(): Display a list of available services.
-list_parts(): Display a list of available parts.
-add_customer(): Add a new customer to the system.
-add_job(): Assign a job to a customer, including selected services and parts.
-bills_to_pay(): Display a list of unpaid bills.
-pay_bill(): Mark a bill as paid after receiving payment.
+- list_customers(): Display a list of all customers and their details.
+- list_services(): Display a list of available services.
+- list_parts(): Display a list of available parts.
+- add_customer(): Add a new customer to the system.
+- add_job(): Assign a job to a customer, including selected services and parts.
+- bills_to_pay(): Display a list of unpaid bills.
+- pay_bill(): Mark a bill as paid after receiving payment.
 
 
